@@ -1,5 +1,6 @@
 # bubble sort
-example =[4,3,78,2,0,2]
+# example =[4,3,78,2,0,2]
+example = [10, 2, 6, 2, 1, 5, 8, 6, 0, 2, 8, 9]
 $sorted = false
 def bubble_sort(arr)
   while (not $sorted) do
